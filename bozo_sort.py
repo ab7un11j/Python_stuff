@@ -1,5 +1,6 @@
 from random import randint as random_integer_picker
 
+
 def check_if_list_is_sorted(list_to_be_checked):
     list_is_sorted = True
     lenght_of_the_list: int = len(list_to_be_checked)
